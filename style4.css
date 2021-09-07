@@ -1,0 +1,48 @@
+.{margin:0px; padding:0px}
+body{
+	font-family:arial;
+	background:url(nature.jpg) no-repeat;
+	font-size:cover;
+	color:white;
+}
+.main{
+	width:1080px;
+	margin:0px auto;
+}
+.mainmenu{
+	width:1080px;
+	margin:0px;
+	padding:0px;
+	
+}
+ul{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+ul li{
+	float:left;
+	width:200px;
+	height:40px;
+	background-color:orange;
+	opacity:.8;
+	line-height:40px;
+	text-align:center;
+	font-size:20px;
+	margin-right:2px;
+}
+ul li a{
+	text-decoration:none;
+	display:block;
+	color:white;
+}
+ul li a:hover{
+	background-color:green;
+}
+ul li ul li {
+	border-radius:10px 10px 10px 10px;
+	display:none;
+}
+ul li:hover ul li{
+	display:block;
+} 

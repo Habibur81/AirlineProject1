@@ -1,0 +1,63 @@
+.{margin:0;padding:0;}
+body{
+	font-family:arial;
+	background:url(nutare.jpg)no-repeat;
+	background-size:cover;
+	color:white;
+
+}
+.head{
+	border-radius:5px;
+	width:1200px;
+	font-size:20px;
+	margin:0 auto;
+	
+
+
+	
+}
+.main{
+	border-radius:5px 0px 0px 0px;
+	width:900px;
+	float:left;
+	overflow:hidden;
+	background:black;
+
+	
+	
+}
+.main p,h2,h4,h5{
+	margin:5px;
+	overflow:hidden;
+	
+	
+}
+
+.img{ 
+	border-radius:0px 5px 0px 0px;
+    display:block;
+	width:300px;
+	background:#83C0EF;
+	float:right;
+	overflow:hidden;
+}
+.img p{
+	height:9293px;
+	display:block;
+}
+.ima p img{
+	display:block;
+}
+.footer{
+	border-radius:0px 0px 5px 5px;
+	float:left;
+	width:1200px;
+	height:40px;
+	background-color:orange;
+	opacity:.9;
+	line-height:5px;
+	font-size:25px;
+	text-align:center;
+}
+
+

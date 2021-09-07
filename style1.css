@@ -1,0 +1,491 @@
+.{margin:0;padding:0;}
+body{
+	font-family:arial;
+	background:url('nature.jpg') no-repeat;
+	background-size:cover;
+	display:block;
+}
+.mainmune{
+	border-radius:5px;
+	margin:0 auto;
+    width:960px;
+	text-decoration:none;
+	overflow:hidden;
+}
+ul{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+ul li{
+	float:left;
+	width:192px;
+	height:60px;
+	background-color: #990066;
+	text-align:center;
+	font-size:30px;
+}
+ul li a{
+	margin-top:15px;
+	text-decoration:none;
+	display:block;
+	color:white;
+}
+h2{
+	border-radius:5px;
+	background-color:#ff6666;
+	text-align:center;
+	font-size:40px;
+	width:960px;
+	margin:0 auto;
+	overflow:hidden;
+	
+}
+.travel{
+	border-radius:5px;
+	background:#a65959;
+	width:960px;
+	margin:0 auto;
+	overflow:hidden;
+}
+.one{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new1/10.jpg);
+	overflow:hidden;
+	
+}
+.one p{
+	margin-top:30px;
+	font-size:40px;
+	color:orange;
+	
+}
+.two{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new1/2.jpg);
+     overflow:hidden;
+}
+.two p{
+	margin-top:30px;
+	font-size:40px;
+	color:orange;
+	
+}
+.three{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new1/3.jpg);
+	overflow:hidden;
+}
+.three p{
+	margin-top:30px;
+	font-size:40px;
+	color:orange;
+	
+}
+.four{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new1/4.jpg);
+	overflow:hidden;
+	
+}
+.four p{
+	margin-top:30px;
+	font-size:40px;
+	color:brown;
+	
+}
+.five{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new1/5.jpg);
+	overflow:hidden;
+}
+.five p{
+	margin-top:30px;
+	font-size:40px;
+	color:brown;
+	
+}
+.six{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new1/6.jpg);
+	overflow:hidden;
+}
+.six p{
+	margin-top:30px;
+	font-size:40px;
+	color:brown;
+	
+}
+.seven{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new1/7.jpg);
+	overflow:hidden;
+}
+.seven p{
+	margin-top:30px;
+	font-size:40px;
+	color:red;
+	
+}
+.eight{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new1/8.jpg);
+	overflow:hidden;
+}
+.eight p{
+	margin-top:30px;
+	font-size:40px;
+	color:red;
+	
+}
+.nine{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new1/9.jpg);
+	overflow:hidden;
+	
+}
+.nine p{
+	margin-top:30px;
+	font-size:40px;
+	color:red;
+	
+}
+.transport{
+	border-radius:5px;
+	background:	#ff0080;
+	width:960px;
+	opacity:.9;
+	margin:0 auto;
+	overflow:hidden;
+}
+.one1{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new2/A.jpg);
+	overflow:hidden;
+	
+}
+.one1 p{
+	margin-top:30px;
+	font-size:40px;
+	color:orange;
+	
+}
+.two2{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new2/B.jpg);
+     overflow:hidden;
+}
+.two2 p{
+	margin-top:30px;
+	font-size:40px;
+	color:orange;
+	
+}
+.three3{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new2/C.jpg);
+	overflow:hidden;
+}
+.three3 p{
+	margin-top:30px;
+	font-size:40px;
+	color:orange;
+	
+}
+.four4{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new2/D.jpg);
+	overflow:hidden;
+	
+}
+.four4 p{
+	margin-top:30px;
+	font-size:40px;
+	color:brown;
+	
+}
+.five5{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new2/E.jpg);
+	overflow:hidden;
+}
+.five5 p{
+	margin-top:30px;
+	font-size:40px;
+	color:brown;
+	
+}
+.six6{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new2/F.jpg);
+	overflow:hidden;
+}
+.six6 p{
+	margin-top:30px;
+	font-size:40px;
+	color:brown;
+	
+}
+.seven7{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new2/G.jpg);
+	overflow:hidden;
+}
+.seven7 p{
+	margin-top:30px;
+	font-size:40px;
+	color:red;
+	
+}
+.eight8{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new2/H.jpg);
+	overflow:hidden;
+}
+.eight8 p{
+	margin-top:30px;
+	font-size:40px;
+	color:red;
+	
+}
+.nine9{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new2/I.jpg);
+	overflow:hidden;
+	
+}
+.nine9 p{
+	margin-top:30px;
+	font-size:40px;
+	color:red;
+	
+}
+.hotel{
+	border-radius:5px;
+	background:#d22d2d;
+	width:960px;
+	opacity:.8;
+	margin:0 auto;
+	overflow:hidden;
+}
+.onea{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new/16.jpg);
+	overflow:hidden;
+	
+}
+.onea p{
+	margin-top:30px;
+	font-size:40px;
+	color:orange;
+	
+}
+.twob{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new/17.jpg);
+     overflow:hidden;
+}
+.twob p{
+	margin-top:30px;
+	font-size:40px;
+	color:orange;
+	
+}
+.threec{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new/18.jpg);
+	overflow:hidden;
+}
+.threec p{
+	margin-top:30px;
+	font-size:40px;
+	color:orange;
+	
+}
+.fourd{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new/19.jpg);
+	overflow:hidden;
+	
+}
+.fourd p{
+	margin-top:30px;
+	font-size:40px;
+	color:brown;
+	
+}
+.fivee{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new/20.jpg);
+	overflow:hidden;
+}
+.fivee p{
+	margin-top:30px;
+	font-size:40px;
+	color:brown;
+	
+}
+.sixf{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new/21.jpg);
+	overflow:hidden;
+}
+.sixf p{
+	margin-top:30px;
+	font-size:40px;
+	color:brown;
+	
+}
+.seveng{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new/22.jpg);
+	overflow:hidden;
+}
+.seveng p{
+	margin-top:30px;
+	font-size:40px;
+	color:red;
+	
+}
+.eighth{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new/23.jpg);
+	overflow:hidden;
+}
+.eighth p{
+	margin-top:30px;
+	font-size:40px;
+	color:red;
+	
+}
+.ninei{
+	text-align:center;
+	height:180px;
+	float:left;
+	width:300px;
+	margin:10px;
+	background-image: url(new/24.jpg);
+	overflow:hidden;
+	
+}
+.ninei p{
+	margin-top:30px;
+	font-size:40px;
+	color:red;
+	
+}
+.footer{
+	border-radius:5px;
+	width:960px;
+	margin:0 auto;
+	background-color:orange;
+	line-height:5px;
+	font-size:25px;
+	text-align:center;
+	overflow:hidden;
+}
+	

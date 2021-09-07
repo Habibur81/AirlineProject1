@@ -1,0 +1,122 @@
+.{margin:0;padding:0;}
+
+body{
+	 font-family:arial;
+	 background:url(nature.jpg)no-repeat;
+	 background-size:cover;
+	 color:white;
+}
+.main{
+	border-radius:5px;
+	background:#94CE8C;
+	background-size:cover;
+	width:1080px;
+	margin:0 auto;
+	opacity:.9;
+	line-height:20px;
+	overflow:hidden;
+}
+.fi {
+	display:block;
+	background-size:cover;
+	overflow:hidden;
+}
+.hi{
+	width:640px;
+	float:right;
+}
+.hi h1{
+	
+}
+.pi{
+	width:440px;
+	float:left;
+}
+.pi p{
+	font-weight:bold;
+	width:120px;
+	margin-left:30px;
+	
+}
+.pi p a{
+	text-decoration:none;
+}
+.pi p a:hover{
+	background:#ededed;
+}
+#mainmenu{
+	height:650px;
+	background-image: url(plane/p.jpg);
+	background-size:cover;
+	width:1080px;
+	margin:0 auto;
+	line-height:20px;
+	overflow:hidden;
+}
+#contact{
+	background-size:cover;
+	display:block;
+	overflow:hidden;
+	width:540px;
+	float:left;
+}
+#contact ul{
+	margin-left:140px;
+	display:block;
+	width:300px;
+	overflow:hidden;
+}
+#contact ul li{
+	margin-top:53px;
+	background-size:cover;
+	height:60px;
+	text-align:center;
+	list-style:none;
+	border:1px solid white;
+	font-weight:bold;
+	font-size:20px;
+	opacity:.9;
+}
+li p{
+	top=10px;
+}
+
+#input {
+	float:right;
+	background-size:cover;
+	display:block;
+	overflow:hidden;
+	width:540px;
+}
+#input ul{
+	margin-left:30px;
+	display:block;
+	width:300px;
+	overflow:hidden;
+	
+}
+#input ul li{
+	font-weight:bold;
+	font-size:20px;
+	margin-top:53px;
+	background-size:cover;
+	height:60px;
+	text-align:center;
+	list-style:none;
+	border:1px solid white;
+	opacity:.9;
+}
+li p{
+	top:10px;
+}
+.footer{
+	background-size:cover;
+	float:left;
+	width:1080px;
+	height:40px;
+	background-color:orange;
+	opacity:.9;
+	line-height:5px;
+	font-size:25px;
+	text-align:center;
+}
